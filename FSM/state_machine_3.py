@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Thu Nov  9 16:50:13 2023
+This is a test for the new GitHub page setup
 
 @authors: Elena & Miguel
 """
